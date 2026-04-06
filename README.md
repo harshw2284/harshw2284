@@ -44,11 +44,10 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects and Important Repo
 
 * 🔗 Log analyzer (https://github.com/harshw2284/Shell-scripts/tree/main/Day-05-06-07%20(Log%20Analyzer%20and%20Report%20Generator))
-* 🔗 [Project 2 Name](https://github.com/your-username/project-link)
-* 🔗 [Project 3 Name](https://github.com/your-username/project-link)
+* 🔗 My Git Journey (https://github.com/harshw2284/Git-Journey)
 
 ---
 
