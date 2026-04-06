@@ -19,10 +19,19 @@
 
 ## ⚒️ Skills & Tools
 
-* 💻 Languages: C, Python (learning)
+* 💻 Languages: C, Python (learning), HTML
 * 🐧 OS: Linux (Ubuntu)
-* 🔧 Tools: Git, GitHub, VS Code
+* 🔧 Tools: Git, GitHub, VS Code, Gitlab ,AWS
 * ⚙️ Concepts: Shell Scripting, Version Control, Basic Networking
+
+---
+
+## 📖 My learnings so Far 
+
+* Computer Networking
+* AWS fundamentals
+* Shell Scripting
+* Git, GitHub, Gitlab
 
 ---
 
@@ -31,11 +40,13 @@
 * 📌 **90 Days of DevOps**
   Building daily projects and documenting learning
 
+* Docker
+
 ---
 
 ## 📂 Featured Projects
 
-* 🔗 [Project 1 Name](https://github.com/your-username/project-link)
+* 🔗 Log analyzer (https://github.com/harshw2284/Shell-scripts/blob/main/Day-05-06-07/Log_analyzer.sh)
 * 🔗 [Project 2 Name](https://github.com/your-username/project-link)
 * 🔗 [Project 3 Name](https://github.com/your-username/project-link)
 
