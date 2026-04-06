@@ -1,7 +1,9 @@
 # Hi, I'm Harsh 👋
 
 🎓 Computer Science Engineering student
+
 🚀 Currently exploring DevOps, Cloud, and System Design
+
 📈 Focused on building consistency and real-world skills
 
 ---
